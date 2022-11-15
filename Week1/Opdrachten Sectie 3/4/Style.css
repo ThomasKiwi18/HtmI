@@ -1,0 +1,30 @@
+.h1{
+    color:green;
+    font-size: 20px;
+}
+
+.h2{
+    color: red;
+    font-size: 19px;
+}
+.p1{
+    color: blue;
+    font-size: 30px;
+}
+.h3{
+    color:blue;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.p2{
+    color: lime;
+    font-size:30px;
+}
+
+.h4{
+    color:green;
+    font-size: 100px;
+}
+    
+
+

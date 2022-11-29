@@ -1,0 +1,52 @@
+
+.pic{
+    position: relative;
+    box-sizing: border-box;
+    border: 10px solid black;
+    height: 600px;
+    width: 600px;
+    padding: 125px;
+    top: -20px;
+    left: 100px;
+
+}
+.h1{
+    position: relative;
+left: 100px;
+color:green;
+}
+.h2{
+    position: relative;
+    left: 600px;
+    bottom: 180px;
+    color: green;
+    font-size: 20px;
+}
+.h3{
+    color: green;
+    position: relative;
+font-size: 25px;
+bottom: 110px;
+left: 100px;
+}
+.h4{
+    color:red;
+        position: relative;
+        bottom: 30px;
+        font-size: 25px;
+}
+.h5{
+    font-size:25px;
+    position: relative;
+    bottom: 44px;
+    font-size:30px;
+}
+.href{
+    position: relative;
+    font-size: 18px;
+    bottom: 90px;
+}
+.h3-2{
+    position:relative;
+    color: green;
+}

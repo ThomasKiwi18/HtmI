@@ -1,0 +1,18 @@
+div {
+    background-color: yellow;
+}
+.first-div{
+    background-color: blue;
+}
+div.first-div#first-div{
+    background-color: red;
+}
+#first-div{
+    background-color: green;
+}
+.first-div#first-div{
+    background-color: purple;
+}
+.first-div.second-div.thrid-div.fourth-div{
+    background-color: aqua;
+}

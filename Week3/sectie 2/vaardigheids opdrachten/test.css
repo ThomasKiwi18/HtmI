@@ -1,0 +1,5 @@
+img {
+    clip-path: polygon(0% 10%,100% 16%,100% 92%,0% 91%);
+    height:1080px;
+    width:1920px;
+  }

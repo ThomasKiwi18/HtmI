@@ -1,0 +1,63 @@
+a:visited {
+    color: cyan;
+    text-decoration: none;
+}
+a:link{
+    color: lightcoral;
+    text-decoration: none;
+}
+
+
+
+
+.flex-navigatie{
+    display: flex;
+    text-decoration: none;
+
+}
+.flex-navigatie > div {
+    margin: auto;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.footer {
+    font-size: 25px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: cyan;
+    position: absolute;
+    bottom: 0;
+}
+
+
+.header{
+    text-align: center;
+    color: red
+}
+.row {
+ display: grid;
+ grid-template-columns: auto auto auto;
+ justify-content: center;
+ justify-items: center;
+}
+
+.img-item{
+  padding: auto;
+  transition: transform 0.2s;
+}
+.img-item:hover{
+  transform: scale(1.25);
+}
+.index{
+    padding: auto;
+    transition: transform 1s;
+  }
+  .index:hover{
+    transform: scale(1.2);
+  }
+
